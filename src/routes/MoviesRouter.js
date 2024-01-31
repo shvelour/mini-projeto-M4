@@ -62,8 +62,8 @@ moviesRouter.get('/id/1', (req, res) => {
 
 moviesRouter.get('/id/2', (req, res) => {
     if (listMovies[1].id == 2) {
-     res.json({ movie2: listMovies[1] });
-   }
+        res.json({ movie2: listMovies[1] });
+    }
 
 })
 
@@ -75,8 +75,8 @@ moviesRouter.get('/id/3', (req, res) => {
 
 moviesRouter.get('/id/4', (req, res) => {
     if (listMovies[3].id == 4) {
-     res.json({ movie4: listMovies[3] });
-   }
+        res.json({ movie4: listMovies[3] });
+    }
 
 })
 
@@ -88,8 +88,8 @@ moviesRouter.get('/id/5', (req, res) => {
 
 moviesRouter.get('/id/6', (req, res) => {
     if (listMovies[5].id == 6) {
-     res.json({ movie6: listMovies[5] });
-   }
+        res.json({ movie6: listMovies[5] });
+    }
 
 })
 

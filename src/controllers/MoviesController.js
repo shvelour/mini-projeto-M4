@@ -30,7 +30,7 @@ let listMovies = [
         name: "Black Girl",
         year: "1966",
         genre: "Drama",
-        description:"Black Girl é um filme senegalês de 1966 dirigido por Ousmane Sembène. A história segue Diouana, uma jovem senegalesa que enfrenta discriminação e exploração ao trabalhar como empregada doméstica na França, explorando questões de colonização e racismo. "
+        description: "Black Girl é um filme senegalês de 1966 dirigido por Ousmane Sembène. A história segue Diouana, uma jovem senegalesa que enfrenta discriminação e exploração ao trabalhar como empregada doméstica na França, explorando questões de colonização e racismo. "
     },
     {
         id: 5,
@@ -43,8 +43,8 @@ let listMovies = [
         id: 6,
         name: "Black Panthers",
         ano: "1968",
-        genre:"Documentário",
-        description:"Um documentário que explora a história do Partido dos Panteras Negras, um movimento revolucionário negro nos Estados Unidos durante a década de 1960. "
+        genre: "Documentário",
+        description: "Um documentário que explora a história do Partido dos Panteras Negras, um movimento revolucionário negro nos Estados Unidos durante a década de 1960. "
     }
 ]
 
